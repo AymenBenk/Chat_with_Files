@@ -35,7 +35,7 @@ Install the required Python packages using pip.
 ## Run the application
 
  ```shell
-   python app.py
+   streamlit run app.py
 ```
 
 Access the app in your web browser at http://localhost:5000.
