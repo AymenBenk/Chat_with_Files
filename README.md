@@ -27,10 +27,12 @@ To run this application, you need to have the following installed on your machin
 
 Install the required Python packages using pip.
 
+ ```shell
 pip install -r requirements.txt
 
 ## Run the application
 
+ ```shell
 python app.py
 
 Access the app in your web browser at http://localhost:5000.
