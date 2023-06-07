@@ -1,0 +1,15 @@
+
+faiss-cpu==1.7.4
+huggingface-hub==0.14.1
+InstructorEmbedding==1.0.1
+ipykernel==6.20.2
+langchain==0.0.177
+llama-cpp-python==0.1.50
+openai==0.27.6
+PyPDF2==3.0.1
+python-dotenv==1.0.0
+sentence-transformers==2.2.2
+streamlit==1.22.0
+tiktoken==0.4.0
+tqdm==4.65.0
+
