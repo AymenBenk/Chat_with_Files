@@ -22,7 +22,7 @@ Clone this repository to your local machine.
 
    ```shell
    git clone https://github.com/AymenBenk/Chat_with_Files.git
-
+   ```
 
 ## Installation
 
@@ -30,11 +30,13 @@ Install the required Python packages using pip.
 
  ```shell
    pip install -r requirements.txt
+  ```
 
 ## Run the application
 
  ```shell
    python app.py
+```
 
 Access the app in your web browser at http://localhost:5000.
 
