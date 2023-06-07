@@ -18,22 +18,23 @@ To run this application, you need to have the following installed on your machin
 
 ## Usage
 
-1. Clone this repository to your local machine.
+Clone this repository to your local machine.
 
    ```shell
    git clone https://github.com/AymenBenk/Chat_with_Files.git```
-   
+
+
 ## Installation
 
 Install the required Python packages using pip.
 
  ```shell
-pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 ## Run the application
 
  ```shell
-python app.py```
+   python app.py
 
 Access the app in your web browser at http://localhost:5000.
 
