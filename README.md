@@ -21,7 +21,7 @@ To run this application, you need to have the following installed on your machin
 Clone this repository to your local machine.
 
    ```shell
-   git clone https://github.com/AymenBenk/Chat_with_Files.git```
+   git clone https://github.com/AymenBenk/Chat_with_Files.git
 
 
 ## Installation
